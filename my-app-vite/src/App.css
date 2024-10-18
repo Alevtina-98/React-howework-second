@@ -1,0 +1,23 @@
+body {
+  box-sizing: border-box;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.p-color {
+  color: aqua;
+}
+
+.title {
+  color: red;
+}
+
+.paragraph {
+  color: blue;
+}
+
+.img {
+  width: 250px;
+  height: 250px;
+}
